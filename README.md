@@ -37,7 +37,7 @@ docs/
 
 | Часть         | Ссылка                                                          | Назначение                          |
 |---------------|------------------------------------------------------------------|-------------------------------------|
-| 📘 Документация | [github.com/MyFinProject/docs](https://github.com/MyFinProject/documentation)         | Бизнес-логика, архитектура, ERD     |
+| 📘 Документация | [github.com/MyFinProject/documentation](https://github.com/MyFinProject/documentation)         | Бизнес-логика, архитектура, ERD     |
 | 💡 Backend     | [github.com/MyFinProject/backend](https://github.com/MyFinProject/backend)     | ASP web Api               |
 | 🎨 Frontend    | [github.com/MyFinProject/frontend](https://github.com/MyFinProject/frontend)   | Vue 3, Pinia, Axios, Tailwind CSS   |
 
