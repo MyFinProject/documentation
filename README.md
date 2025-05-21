@@ -22,7 +22,7 @@ docs/
 ├── work_shedule.md            # График работ в соответствии с чекпоинтами
 ├── business_requirements.md   # Бизнес-требования
 ├── architecture.md            # Архитектура и технологии
-├── database.md                # ERD БД
+├── ERD DataBase.md                # ERD БД
 └── figma-link.md              # Ссылка на макет
 ```
 ---
