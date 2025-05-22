@@ -31,7 +31,7 @@ docs/
 
 > Этот раздел поможет вам **запустить, протестировать и понять**, как устроен проект с технической стороны. Независимо от того, backend вы или frontend, вы не потеряетесь.
 
----
+
 
 ### 📦 Репозитории проекта
 
@@ -41,7 +41,7 @@ docs/
 | 💡 Backend     | [github.com/MyFinProject/backend](https://github.com/MyFinProject/backend)     | ASP web Api               |
 | 🎨 Frontend    | [github.com/MyFinProject/frontend](https://github.com/MyFinProject/frontend)   | Vue 3, Pinia, Axios, Tailwind CSS   |
 
----
+
 
 ## 🖥️ Как запустить проект локально
 
