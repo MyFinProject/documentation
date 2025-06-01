@@ -41,7 +41,12 @@ docs/
 | 💡 Backend     | [github.com/MyFinProject/backend](https://github.com/MyFinProject/backend)     | ASP web Api               |
 | 🎨 Frontend    | [github.com/MyFinProject/frontend](https://github.com/MyFinProject/frontend)   | Vue 3, Pinia, Axios, Tailwind CSS   |
 
-
+## Фичи
+1) скан чеков
+2) приятный дизайн
+3) авторизация с проверкой почты
+4) цели
+5) добавление кастомных категорий
 
 ## 🖥️ Как запустить проект локально
 
