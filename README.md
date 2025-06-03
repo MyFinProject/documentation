@@ -59,13 +59,8 @@ git clone https://github.com/MyFinProject/frontend.git
 
 2. **Настроить строку подключения**
 
-Откройте appsettings.Development.json и пропишите:
-> "ConnectionStrings": {
-"DefaultConnection": "Server=localhost;Database=MyFinDb;User Id=sa;Password=YourStrong@Passw0rd;"
-}
 
 3. **Применить миграции и инициализировать базу**
->dotnet ef database update
 
 
 4. **Запуск приложения**
